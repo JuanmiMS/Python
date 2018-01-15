@@ -1,2 +1,2 @@
 # Python
-All the python exercises done in class
+All the Python exercises done in class
