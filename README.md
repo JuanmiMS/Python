@@ -1,2 +1,2 @@
 # Python
-Todos los ejercicios de Python.
+All the python exercises done in class
